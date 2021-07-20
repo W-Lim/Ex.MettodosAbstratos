@@ -1,0 +1,13 @@
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.exe
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.deps.json
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.dll
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\bin\Debug\netcoreapp3.1\ExMetAbstractos.pdb
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.csproj.AssemblyReference.cache
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.dll
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.pdb
+C:\Users\antonio.marques\Documents\C#\ExMetAbstractos\ExMetAbstractos\obj\Debug\netcoreapp3.1\ExMetAbstractos.genruntimeconfig.cache
