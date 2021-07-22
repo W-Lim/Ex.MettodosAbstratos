@@ -10,7 +10,7 @@ namespace ExMetAbstractos
     {
         static void Main(string[] args)
         {
-            List<Shape> list = new List<Shape>();
+            List<AbstractShape> list = new List<AbstractShape>();
             Console.Write("Enter the number of shapes: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -43,8 +43,9 @@ namespace ExMetAbstractos
                 }
             }
 
+            Console.WriteLine(  );
             Console.WriteLine("SHAPE AREAS:");
-            foreach(Shape shape in list)
+            foreach(AbstractShape shape in list)
             {
                 Console.WriteLine(shape.Area().ToString("F2", CultureInfo.InvariantCulture));
             }

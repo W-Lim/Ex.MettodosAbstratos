@@ -5,12 +5,11 @@ using ExMetAbstractos.Entities.Enuns;
 
 namespace ExMetAbstractos.Entities
 {
-    abstract class Shape
+    abstract class AbstractShape
     {
         public Color Color { get; set; }
 
-
-        public Shape(Color color)
+        protected AbstractShape(Color color)
         {
             Color = color;
         }
